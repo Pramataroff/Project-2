@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milen\\source\\repos\\Project 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0478957F-209A-4A07-A15F-17F0B241A5FA}|Project 2\\Project 2.csproj|c:\\users\\milen\\source\\repos\\project 2\\project 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0478957F-209A-4A07-A15F-17F0B241A5FA}|Project 2\\Project 2.csproj|solutionrelative:project 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0478957F-209A-4A07-A15F-17F0B241A5FA}|Project 2\\Project 2.csproj|c:\\users\\milen\\source\\repos\\project 2\\project 2\\cardealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0478957F-209A-4A07-A15F-17F0B241A5FA}|Project 2\\Project 2.csproj|solutionrelative:project 2\\cardealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0478957F-209A-4A07-A15F-17F0B241A5FA}|Project 2\\Project 2.csproj|c:\\users\\milen\\source\\repos\\project 2\\project 2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0478957F-209A-4A07-A15F-17F0B241A5FA}|Project 2\\Project 2.csproj|solutionrelative:project 2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\source\\repos\\Project 2\\Project 2\\Client.cs",
+              "RelativeDocumentMoniker": "Project 2\\Client.cs",
+              "ToolTip": "C:\\Users\\milen\\source\\repos\\Project 2\\Project 2\\Client.cs",
+              "RelativeToolTip": "Project 2\\Client.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwA8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:18:59.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarDealer.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\source\\repos\\Project 2\\Project 2\\CarDealer.cs",
+              "RelativeDocumentMoniker": "Project 2\\CarDealer.cs",
+              "ToolTip": "C:\\Users\\milen\\source\\repos\\Project 2\\Project 2\\CarDealer.cs",
+              "RelativeToolTip": "Project 2\\CarDealer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB4AAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:15:42.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\source\\repos\\Project 2\\Project 2\\Program.cs",
+              "RelativeDocumentMoniker": "Project 2\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\source\\repos\\Project 2\\Project 2\\Program.cs",
+              "RelativeToolTip": "Project 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:14:53.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
